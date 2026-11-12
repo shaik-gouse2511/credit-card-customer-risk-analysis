@@ -1,5 +1,0 @@
-# Ignore Python scripts from Vercel Serverless Function detection
-*.py
-requirements.txt
-dataset/
-models/
