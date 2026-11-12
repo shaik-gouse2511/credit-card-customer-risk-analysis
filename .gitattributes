@@ -1,4 +1,4 @@
-# Override language detection so GitHub and Vercel classify this as pure HTML
+# Language detection configuration
 python_scripts/* linguist-vendored
 dataset/* linguist-vendored
 models/* linguist-vendored
@@ -7,3 +7,4 @@ outputs/*.json linguist-vendored
 outputs/*.js linguist-vendored
 index.html linguist-detectable
 dashboard.html linguist-detectable
+main.py linguist-detectable
