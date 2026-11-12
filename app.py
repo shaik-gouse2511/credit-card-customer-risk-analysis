@@ -435,3 +435,4 @@ Avg Credit Limit = AVERAGE('power_bi_credit_card_risk'[Credit_Limit])
        * **Clustered Column Chart**: X-Axis = `Age_Group`, Y-Axis = `[Total Customers]`.
        * **Table**: Drag `Customer_ID`, `Credit_Limit`, `Age`, `Payment_Status`, `Risk_Level`, `Actual_Default`.
     """)
+

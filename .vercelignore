@@ -1,0 +1,7 @@
+# Ignore Python server files during Vercel static deployment
+app.py
+main.py
+python_scripts/
+requirements.txt
+dataset/
+models/
